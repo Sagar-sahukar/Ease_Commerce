@@ -1,5 +1,5 @@
- UI Automation – To Run Tests Locally
-Clone the UI test automation repository from GitHub.
+ UI & APIAutomation – To Run Tests Locally
+Clone the UI & API test automation repository from GitHub.
 
 Open the project in Visual Studio Code.
 
